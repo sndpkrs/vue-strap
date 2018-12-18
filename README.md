@@ -1,7 +1,8 @@
 # vue-strap
 Bootstrap components built with Vue.js.
+This repository is forked from https://github.com/wffranco/vue-strap.git. Its corrects one of the typo in Radio.vue component. 
 
-This repository contains a set of native Vue.js components based on Bootstrap's markup and CSS. As a result no dependency on jQuery or Bootstrap's JavaScript is required. The only required dependencies are:
+It contains a set of native Vue.js components based on Bootstrap's markup and CSS. As a result no dependency on jQuery or Bootstrap's JavaScript is required. The only required dependencies are:
 
 * [Vue.js](http://vuejs.org/) (required ^v2.x.x, test with v2.0.3).
 * [Bootstrap CSS](http://getbootstrap.com/) (required 3.x.x, test with 3.3.6). VueStrap doesn't depend on a very precise version of Bootstrap.
@@ -11,7 +12,7 @@ This repository contains a set of native Vue.js components based on Bootstrap's 
 ### NPM
 
 ```bash
-$ npm install github:wffranco/vue-strap --save
+$ npm install github:sndpkrs/vue-strap --save
 ```
 
 ### CommonJS
